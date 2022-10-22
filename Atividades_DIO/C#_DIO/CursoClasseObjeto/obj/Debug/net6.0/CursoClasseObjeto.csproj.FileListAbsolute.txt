@@ -1,0 +1,15 @@
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\bin\Debug\net6.0\CursoClasseObjeto.exe
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\bin\Debug\net6.0\CursoClasseObjeto.deps.json
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\bin\Debug\net6.0\CursoClasseObjeto.runtimeconfig.json
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\bin\Debug\net6.0\CursoClasseObjeto.dll
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\bin\Debug\net6.0\ref\CursoClasseObjeto.dll
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\bin\Debug\net6.0\CursoClasseObjeto.pdb
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.csproj.AssemblyReference.cache
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.AssemblyInfoInputs.cache
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.AssemblyInfo.cs
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.csproj.CoreCompileInputs.cache
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.dll
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\ref\CursoClasseObjeto.dll
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.pdb
+F:\Aulas_DIO\Atividades_DIO\C#_DIO\CursoClasseObjeto\obj\Debug\net6.0\CursoClasseObjeto.genruntimeconfig.cache
