@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Tags HTML</title>
+</head>
+<body>
+    <h1>Relatório sobre Tags</h1>
+    <hr>
+    <h3 id="Sumario">Sumario</h3>
+    <ul>
+        <li><a href="#Intro">Introdução</a></li>
+        <li><a href="#Tags">Tags
+            <ol>
+                <li><a href="#HHB">Html, Head e Body</a></li>
+                <li><a href="#TagText">Tags de Texto</a></li>
+                <li><a href="#FormatText">Tags de Formatação</a></li>
+                <li><a href="#TagList">Tags de Lista</a></li>
+                <li><a href="#Final">Finalização</a></li>
+            </ol>
+        </a></li>
+        
+    </ul>
+
+    <h2 id="Intro">Introdução</h2>
+    <p>Neste documento está relatado sobre as tags aprendidas na parte 
+        <u>Estruturando Páginas Web com HTML</u> no BootCamp da 
+        <a href="https://dio.me/" target="_blank">Dio</a> apresentado pelo EmpregoTech
+         fornecido pela prefeitura de Curitiba.</p>
+    <h2 id="Tags">Tags <small><a href="#Sumario">(Back)</a></small></h2>
+    <ul>
+        <li>
+            <h4 id="HHB">Html, Head e Body</h4>
+            <p>Antes de começar com as tags, deve-se ter entendimento que o Html
+                sendo uma linguagem de marcação, tem "tags iniciais" ao qual se
+                responsabilizam pelo desbloqueio as demais tags.
+                <ul>
+                    <li><strong>Html</strong>- Desbloqueia o uso das demais tags</li>
+                    <li><strong>Head</strong>- Cabeçalho da página, ao qual colocamos
+                         informações não apresentadas ao cliente</li>
+                    <li><strong>Body</strong>- Corpo da página ao qual colocamos 
+                        o contéudo a ser apresentado</li>
+                </ul>
+            </p>
+        </li>
+        <li>
+            <h4 id="TagText">Tags de Texto</h4>
+            <p>São tags ao quais permitem desenvolver o texto/contéudo do texto.</p>
+            <ol>
+                <li>
+                    <h5><strong>Tag P</strong></h5>
+            <p>Permite o desenvolvedor criar paragrafos para seus textos</p>
+            <p><i>Obs:Está tag precisa de sua tag de fechamento</i></p>
+                </li>
+                <li>
+                    <h5><strong>Tag H</strong></h5>
+                    <p>A tag permite criar um titulos ao texto,
+                         tendo variações de tamanho, sendo 1 a maior de todas
+                        e 6 a menor de todas</p>
+                    <p>Exemplo h6:<h6>Este é o tamanho h6</h6></p>
+                </li>
+                <li>
+                    <h5>Tag Br</h5>
+                    <p>tag responsavel por criar um espaçamento no documento</p>
+                </li>
+                <li>
+                    <h5>Tag Hr</h5>
+                    <p>Cria uma linha no documento, separando-o visualmente</p>
+                </li>
+                <li>
+                    <h5>Tag Blockquote</h5>
+                    <p>Usado para campos onde se terá uma citação</p>
+                    <p>Exemplo:<blockquote>Prefiro morrer do que perder a vida</blockquote></p>
+                </li>
+                    <u><small>Note: Antigas versões do HTML, possuiam
+                        suporte ao comando < font >, ao qual permitia alterações
+                        na fonte do documento (Foi substituido pelas funções do CSS).
+                    </small></u>
+            </ol>
+        </li>
+        <li>
+            <h4 id="FormatText">Tags de Formatação <small><a href="#Sumario">(Back)</a></small></h4>
+            <p>Tags utilizadas para formatação do texto</p>
+            <ol>
+                <li>
+                    <h5>Tag Abbr</h5>
+                    <p>Sua funcionalidade é ajudar com abreviações,
+                         sendo usado o parametro title para a resolução 
+                        da abreviação completa.</p>
+                        <p>Sua Escrita: < abbr title="Brasil" > BR </ abbr ></p>
+                        <p>Resultado: <abbr title="Brasil">BR</abbr></p>
+                        <u><small>Obs:A abreviação completa aparece se você passar 
+                            o mouse por cima da abreviação.
+                        </small></u>
+                </li>
+                <li>
+                    <h5>Tag Sub</h5>
+                    <p>A formatação serve para subscrever alguma
+                        informação, como indicar que o número apresentado
+                        é binario e não decimal.
+                    </p>
+                    <p>Exemplo: 1001<sub>2</sub> = 9<sub>10</sub></p>
+                </li>
+                <li>
+                    <h5>Tag Sup</h5>
+                    <p>A formatação serve para sobrescrever alguma
+                        informação, podendo ser utilizado em representação
+                        de elevação de um elemento na matemática.
+                    </p>
+                    <p>Exemplo:64<sup>6</sup> = 68.719.476.736 ou 6,87 * 10<sup>-10</sup></p>
+                </li>
+                <li>
+                    <h5>Tag Mark</h5>
+                    <p>Sua utilização é para destacar algo no texto, 
+                        exatamente como um marca texto.
+                    </p>
+                    <p>Exemplo:Você esta <mark>Lendo</mark> isso?</p>
+                </li>
+                <li>
+                    <h5>Tag A</h5>
+                    <p>Esta tag não seria focada em formatação, mas 
+                    seu linkamento com outras partes, permite uma certa 
+                    formatação.
+                    Ela é utilizada para aplicar links no texto sem mostrar
+                    a url. 
+                    </p>
+                    <p>Exemplo: <a href="https://github.com/LoganTr13" target="_blank""">Meu GitHub</a></p>
+                </li>
+                <li>
+                    <h5>Tag I</h5>
+                    <p>Permite ativar o Itálico no texto</p>
+                    <p>Exemplo:<i>Texto Itálico</i></p>
+                </li>
+                <li>
+                    <h5>Tag U</h5>
+                    <p>Permite ativar o Sublinhado no texto</p>
+                    <p>Exemplo:<u>Texto Sublinhado</u></p>
+                </li>
+                <li>
+                    <h5>Tag Strong</h5>
+                    <p>Permite ativar o Negrito no texto</p>
+                    <p>Exemplo:<strong>Texto com Negrito</strong></p>
+                </li>
+            </ol>
+        </li>
+        <li>
+            <h4 id="TagList">Tags de Lista <small><a href="#Sumario">(Back)</a></small></h4>
+            <p>Tags ao qual permitem o usuario criar uma tabulação
+                enumerada sendo desordenada (ul) ou ordenada (ol).
+            </p>
+            <ol>
+                <li>
+                    <h5>Tag UL</h5>
+                    <p>Lista ao qual utiliza simbolos, sem ordem</p>
+                    <p>Exemplo:<ul><li>item</li><li>item2</li></ul></p>
+                </li>
+                <li>
+                    <h5>Tag OL</h5>
+                    <p>Lista ao qual utiliza uma enumeração com ordem para listar</p>
+                    <p>Exemplo:<ol><li>item</li><li>item2</li></ol></p>
+                </li>
+                <li>
+                    <h5>Tag Filha: LI</h5>
+                    <p>Esta tag é filha das duas anteriores,
+                         ao qual serve para fazer a linha da lista</p>
+                </li>
+            </ol>
+        </li>
+    </ul>
+    <h4 id="Final">Finalização <small><a href="#Sumario">(Back)</a></small></h4>
+    <p>As tags apresentadas, foram as tags aprendidas no <a href="https://web.dio.me/track/9b3be613-7271-4c1d-8d1b-3d31087b2d51" target="_blank">Curso</a>
+    sendo todas elas utilizadas no documento html, alem de outras tags de conhecimento
+do autor, todas as tags HTML existentes não foram apresentadas nem utilizadas, caso 
+interesse o autor recomendo o site <a href="https://www.w3schools.com/tags/default.asp" target="_blank">W3School</a> para que o leitor
+amplie seu conhecimento.</p>
+<p>Termino aqui este documento, assim completando o desafio atual.</p>
+</body>
+</html>
