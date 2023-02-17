@@ -11,6 +11,6 @@ Este repositório é destinado a projetos e arquivos adquiridos das aulas na pla
 # Links De Projetos
 
 ||[ Trilha CSS ](https://logantr13.github.io/Aulas-DIO/Atividades_DIO/EmpregoTech_BootCamp/[Desafio%20Dio]%20Trilha%20CSS/)
-||[ Clínica HTML ](logantr13.github.io/Aulas-DIO/Atividades_DIO/EmpregoTech_BootCamp/[Desafio%20Dio]%20HTML%20Clínica/)
-||[ Pokédex ](logantr13.github.io/Aulas-DIO/Atividades_DIO/EmpregoTech_BootCamp/[Desafio%20Dio]%20PokeDex/)
+||[ Clínica HTML ](https://logantr13.github.io/Aulas-DIO/Atividades_DIO/EmpregoTech_BootCamp/[Desafio%20Dio]%20HTML%20Clínica/)
+||[ Pokédex ](https://logantr13.github.io/Aulas-DIO/Atividades_DIO/EmpregoTech_BootCamp/[Desafio%20Dio]%20PokeDex/)
 ||
